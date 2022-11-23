@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@400&family=Rajdhani:wght@300;400&display=swap');
+
+*{
+  font-family: 'Hepta Slab', serif;
+}
+
+.SearchEngine {
+  margin-top: 2rem;
+}

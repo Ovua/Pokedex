@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@400&family=Rajdhani:wght@300;400&display=swap');
+
+.CardContent {
+  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+.CardContent .name {
+  font-family: 'Hepta Slab', serif;
+}
+.CardContent .name::first-letter {
+  text-transform: uppercase;
+}
+
+
+
+
+         
